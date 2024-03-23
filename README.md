@@ -2,7 +2,7 @@
 
 Some projects might be on [GitLab](https://gitlab.com/users/maxks/)
 
-![](https://komarev.com/ghpvc/?username=maxcoga&color=red)
+![](https://komarev.com/ghpvc/?username=maxcoga&color=blueviolet)
 
 
 <!--
